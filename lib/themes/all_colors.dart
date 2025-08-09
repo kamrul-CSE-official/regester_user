@@ -5,4 +5,5 @@ class AllColors {
   static final secondaryColor = Color(0xff2C2F2F);
   static final whiteColor = Color(0xffffffff);
   static final blackColor = Color(0xff000000);
+  static final headingColor = Color.fromARGB(255, 85, 78, 78);
 }
